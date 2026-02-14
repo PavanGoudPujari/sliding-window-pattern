@@ -1,7 +1,18 @@
+# Sliding Window Pattern – Interview Preparation
+
+This repository contains clean and beginner-friendly Java implementations
+of the Sliding Window pattern, commonly asked in coding interviews.
+
+## What is Sliding Window?
+Sliding Window is an optimization technique used to improve performance
+by reusing previous calculations instead of recalculating repeatedly.
+
+## Problems Covered
+
+### Fixed Sliding Window
 - Maximum Sum Subarray of Size K
 
 ### Variable Sliding Window
-- Coming soon
 - Smallest subarray whose sum is greater than or equal to S
 
 ## YouTube Explanations
