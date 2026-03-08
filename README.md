@@ -15,7 +15,8 @@ by reusing previous calculations instead of recalculating repeatedly.
 ### Variable Sliding Window
 - Smallest subarray whose sum is greater than or equal to S
 - Longest Substring Without Repeating Characters
-- Length Of Longest Substring K Distinct  
+- Length Of Longest Substring K Distinct
+- Minimum Window Substring 
 
 ## YouTube Explanations
 I explain the intuition and Java code for these problems on my YouTube channel:
